@@ -31,4 +31,3 @@ samples, guidance on mobile development, and a full API reference.
 
 #### Opcion 4
 ![image](https://github.com/BerthaAreliFuentesRodriguez/p9_Drawer_6J/assets/143548448/c66d1fc3-1d95-4b55-978c-27230495e02b)
-Resultado de Drawer
